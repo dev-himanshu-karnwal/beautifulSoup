@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-# with open('./again/index.html', 'r') as html_file:
+# with open('./scraping local html file/index.html', 'r') as html_file:
 #    content = html_file.read()
 #    print(content)
 #    soup = BeautifulSoup(content, 'lxml')
